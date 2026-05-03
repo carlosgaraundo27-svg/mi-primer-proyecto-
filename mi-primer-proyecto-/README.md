@@ -13,7 +13,7 @@ Ingeniero en formación apasionado por el desarrollo, la optimización de hardwa
 ---
 
 ### Comandos y Herramientas 
-Aqui pondre los comandos que suelo usar enmi flujo de trajo actual:
+Aqui pondre los comandos que suelo usar en mi flujo de trajo actual:
 
 ### Control de versiones
 | Comando | Descripción |
