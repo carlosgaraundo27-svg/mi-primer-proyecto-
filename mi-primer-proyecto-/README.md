@@ -1,21 +1,36 @@
-#   Me presento, Hola, soy Carlos Leonardo
+#   Laboratorio 01: Configuración del Entorno y Repositorio
 
-### Soy un estudiante de la carrera profesional de Ing. de Sistemas
-Ingeniero en formación apasionado por el desarrollo, la optimización de hardware y la edición de video profesional.
-
----
-
-## Información Académica 
-*   ** Universidad:** Universidad Nacional de San Cristóbal de Huamanga (UNSCH)
-*   **Ubicación:** Ayacucho, Perú
+## Descripción del Estudiante
+*   **Nombre:** Carlos Leonardo
+*   **Carrera:** Ingeniería de Sistemas
+*   **Universidad:** Universidad Nacional de San Cristóbal de Huamanga (UNSCH)
 *   **Serie:** 400 - I
 
 ---
 
-### Comandos y Herramientas 
+## Descripción del Proyecto
+### Objetivo del Laboratorio
+Preparar el entorno base del curso, definir convenciones de trabajo y dominar herramientas de versionamiento para asegurar la calidad desde el inicio del desarrollo.
+
+---
+
+### Herramientas y Comandos 
 Aqui pondre los comandos que suelo usar en mi flujo de trajo actual:
 
-### Control de versiones
+### Herramientas Utilizadas
+*   **Node.js:** Entorno de ejecución para JavaScript (v22 recomendada).
+*   **Git:** Sistema de control de versiones.
+*   **GitHub:** Plataforma de alojamiento de repositorios.
+*   **VS Code:** Editor de código con extensiones técnicas (GitLens, ESLint).
+
+## Pasos Realizados
+1.  **Instalación del Stack:** Se instaló Node.js y se verificó mediante la terminal.
+2.  **Configuración de Identidad:** Configuración global de usuario y correo institucional en Git.
+3.  **Inicialización:** Creación del repositorio local y estructuración inicial del proyecto.
+4.  **Vinculación Remota:** Creación del repositorio en GitHub y conexión mediante el protocolo HTTPS.
+5.  **Ciclo de Commits:** Ejecución de commits siguiendo buenas prácticas para mantener un historial legible.
+
+### Comandos de Git Utilizados
 | Comando | Descripción |
 |---------|-------------|
 | `git clone url` | Clona un repositorio remoto. |
@@ -26,15 +41,24 @@ Aqui pondre los comandos que suelo usar en mi flujo de trajo actual:
 | `git push origin main` | Sube los cambios al servidor remoto. |
 | `git pull origin main` | Descarga los cambios del servidor remoto. |
 
-### Terminal y Sistema 
+### Terminal y Sistemas
 *   `ls` / `dir` - Listar archivos.
 *   `cd` - Navegar entre directorios.
 *   `mkdir` - Crear nuevas carpetas.
 *   `cat` - Ver contenido de archivos rápidamente.
 
-## Nota de Revisión
-> [!Important]
-> Para fines de evaluación, este repositorio fue estructucturado para ser revisado a traves de **2 commits** que muestran el progreso y la presentación aplicada en este proyecto.
+---
+
+## Evidencias del Laboratorio
+### Capturas de Pantalla
+*   **Verificación de versiones:** ![Versiones](control%20de%20versiones.png)
+*   **Historial de Commits:** ![Commits](commits.png)
+
+---
+
+Nota de Revisión
+> [!IMPORTANT]
+> Para fines de didacticos, este repositorio ha sido estructurado para ser revisado a través de los **Commits** que muestran el progreso y la lógica aplicada en este proyecto.
 
 ---
 
