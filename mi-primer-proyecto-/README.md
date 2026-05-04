@@ -51,14 +51,14 @@ Aqui pondre los comandos que suelo usar en mi flujo de trajo actual:
 
 ## Evidencias del Laboratorio
 ### Capturas de Pantalla
-*   **Verificación de versiones:** ![Versiones](control%20de%20versiones.png)
+*   **Verificación de versiones:** ![Versiones](control_de_version.png)
 *   **Historial de Commits:** ![Commits](commits.png)
 
 ---
 
 Nota de Revisión
 > [!IMPORTANT]
-> Para fines de didacticos, este repositorio ha sido estructurado para ser revisado a través de los **Commits** que muestran el progreso y la lógica aplicada en este proyecto.
+> Para fines didacticos, este repositorio ha sido estructurado para ser revisado a través de los **Commits** que muestran el progreso y la lógica aplicada en este proyecto.
 
 ---
 
